@@ -1,0 +1,12 @@
+node_modules
+src
+test
+examples
+*.log
+npm-debug.log*
+package-lock.json
+yarn.lock
+.babelrc
+.gitignore
+.prettierrc
+.prettierignore
